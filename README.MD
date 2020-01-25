@@ -1,4 +1,4 @@
-A python Command line app which posts your string to the provided endpoint using post request
+A python Command line app which posts a string to the provided endpoint using post request
 =======
 
 
@@ -21,10 +21,10 @@ Click is a Python package for creating beautiful command line interfaces in a co
 
 *This app by default removes all markdown elements.*
 
-*It also it removes some unfavorable characters from the string like '@#$!%^&~'.*
+*It also removes some unfavorable characters from the string like '@#$!%^&~'.*
 
-*But it give you one option for escaping the html tag or removing entire tag and remaining only text of html.*
+*But it give you one option for escaping the html tag or removing entire tag and remaining only inner text of them.*
 
-*This functionality was handled by '--remove' or '-r' tag which you should passing it when you want to removing entire html tag, otherwise by default it escapes them*
+*This functionality was handled by '--remove' or '-r' flag which you should passing it when you want to removing entire html tag, otherwise by default it escapes them*
 
 *Type  `python cli_app.py --help` for viewing the builtin cli help*
