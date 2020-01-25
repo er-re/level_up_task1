@@ -23,7 +23,7 @@ Click is a Python package for creating beautiful command line interfaces in a co
 
 *It also removes some unfavorable characters from the string like '@#$!%^&~'.*
 
-*But it give you one option for escaping the html tag or removing entire tag and remaining only inner text of them.*
+*But it give you an option for escaping the html tag or removing entire tag and remaining only inner text of them.*
 
 *This functionality was handled by '--remove' or '-r' flag which you should passing it when you want to removing entire html tag, otherwise by default it escapes them*
 
